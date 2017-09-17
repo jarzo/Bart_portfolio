@@ -1,0 +1,26 @@
+#head_contact{
+	margin-top: 2%;
+	color: #777;
+	margin-bottom: 2%;
+}
+#form{
+	margin-top: 10%;
+	width: 70%;
+	margin: auto;
+	border:1px solid #777;
+	border-radius: 25px;
+	padding: 4%;
+	color: #777;
+	box-shadow: 2px 4px 25px 4px rgba(119,119,119,1);
+	
+}
+
+button{
+	margin-top: 2%;
+	margin-left:40%;
+	width: 20%;
+	height: 7vh;
+}
+.btn{
+	font-size: 16px;
+}
